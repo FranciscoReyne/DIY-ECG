@@ -1,7 +1,12 @@
 # DIY ECG with AD8232 and Sound Card
 
-**from: https://www.youtube.com/watch?v=sP_-f5nsOEo**
+**References: 
+- https://www.youtube.com/watch?v=sP_-f5nsOEo**
+- https://github.com/FranciscoReyne/Youtube-Video-Summarizer
 
+---
+
+**Notes:**
 *what you're seeing on the screen is my
 actual ECG signal being displayed and
 analyzed in real-time using this device
