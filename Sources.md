@@ -1,8 +1,8 @@
 # DIY ECG with AD8232 and Sound Card
 
-**References: 
-- https://www.youtube.com/watch?v=sP_-f5nsOEo**
-- https://github.com/FranciscoReyne/Youtube-Video-Summarizer
+**References: **
+- https://www.youtube.com/watch?v=sP_-f5nsOEo
+- *https://github.com/FranciscoReyne/Youtube-Video-Summarizer*
 
 ---
 
